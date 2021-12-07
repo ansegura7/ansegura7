@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Andres Segura Tinoco. I was born in Colombia and grew up in Venezuela. Currently, I am a 1st-year Computer Science PhD student at Universidad Autónoma de Madrid.
+My name is Andrés Segura-Tinoco. I was born in Colombia and grew up in Venezuela.  
+Currently, I am a second-year Computer Science PhD student in the IRG at the Universidad Autónoma de Madrid.
 
 :books: My research interests are in the fields of:
 - Explainable Artificial Intelligence (XAI)
-- Recommender Systems
+- (Argument-based) Recommender Systems
 - Machine Learning and Deep Learning
 - NLP and Argument Mining
 
