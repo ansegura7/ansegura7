@@ -3,6 +3,8 @@
 My name is Andrés Segura-Tinoco. I was born in Colombia and grew up in Venezuela.  
 Currently, I am a second-year Computer Science PhD student in the IRG at Universidad Autónoma de Madrid.
 
+I work actively in the <a href="https://github.com/argrecsys">ArgRecSys</a> team of the Information Retrieval Group (IRG) at UAM.
+
 :books: My research interests are in the fields of:
 - Explainable Artificial Intelligence (XAI)
 - (Argument-based) Recommender Systems
