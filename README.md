@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Andrés Segura-Tinoco. I was born in Colombia and grew up in Venezuela.  
-Currently, I am a second-year Computer Science PhD student at Universidad Autónoma de Madrid.
+Currently, I am a third-year Computer Science PhD student at Universidad Autónoma de Madrid.
 
 I work actively in the <a href="https://github.com/argrecsys">ArgRecSys</a> team of the Information Retrieval Group (IRG) at UAM.
 
@@ -14,7 +14,7 @@ I work actively in the <a href="https://github.com/argrecsys">ArgRecSys</a> team
 You can find more information about my research in my Google Scholar <a href="https://scholar.google.com/citations?user=ncdciAMAAAAJ&hl=en" target="_blank">profile</a>.
 
 :computer: and my favorite programming languages are:
-- Python
+- Python 🐍
 - Java
 - [C#, VB].NET
 - JavaScript
