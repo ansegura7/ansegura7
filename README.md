@@ -11,6 +11,8 @@ I work actively in the <a href="https://github.com/argrecsys">ArgRecSys</a> team
 - Machine Learning and Deep Learning
 - NLP and Argument Mining
 
+You can find more information about my research in my Google Scholar <a href="https://scholar.google.com/citations?user=ncdciAMAAAAJ&hl=en" target="_blank">profile</a>.
+
 :computer: and my favorite programming languages are:
 - Python
 - Java
