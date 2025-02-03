@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Andrés Segura-Tinoco. I was born in Colombia and grew up in Venezuela.  
-Currently, I am a third-year Computer Science PhD student at Universidad Autónoma de Madrid.
+Hi, I’m **Andrés Segura-Tinoco**, a PhD student in Computer Science at Universidad Autónoma de Madrid. With over 16 years of experience solving real-world problems, I have led and contributed to high-impact analytics and AI-driven solutions, particularly in the Oil & Gas industry.
 
 I work actively in the <a href="https://github.com/argrecsys">ArgRecSys</a> team of the Information Retrieval Group (IRG) at UAM.
 
